@@ -11,8 +11,8 @@ public class Opdracht1 extends Applet {
     public void paint(Graphics g) {
         setBackground(Color.white);
         g.setColor(Color.black);
-       g.drawLine(30,200,130,200);
-       g.drawLine(30,200,80,100);
-       g.drawLine(80,100,130,200);
+       g.drawLine(30,200,230,200);
+       g.drawLine(30,200,130,50);
+       g.drawLine(130,50,230,200);
     }
 }
