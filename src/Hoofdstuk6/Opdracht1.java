@@ -7,7 +7,6 @@ public class Opdracht1 extends Applet {
     //Declaratie
     double a, aantalPersonen, uitkomst;
 
-
     public void init() {
         //Initialisatie
         a = 113;
