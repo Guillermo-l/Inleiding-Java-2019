@@ -75,11 +75,3 @@ public class Opdracht3 extends Applet {
         }
     }
 }
-
-
-
-
-//Maak een applet waarin een tekstvak met label en een knop Ok staan.
-// In het tekstvak moet een bedrag worden ingevuld en zodra de gebruiker op Ok
-// klikt of op de enter-toets drukt moet de prijs inclusief BTW (= 21%) in het
-// venster geplaatst worden.
